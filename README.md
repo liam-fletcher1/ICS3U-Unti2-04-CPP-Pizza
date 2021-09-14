@@ -1,1 +1,3 @@
 # ICS3U-Unti2-04-CPP-Pizza
+
+[![GitHub's Super Linter](https://github.com/liam-fletcher1/ICS3U-Unti2-04-CPP-Pizza/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/liam-fletcher1/ICS3U-Unti2-04-CPP-Pizza/actions)
